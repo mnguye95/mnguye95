@@ -4,7 +4,7 @@ Hi 👋 My name is Michael Nguyen
 Front-End Web Developer & SEO
 -----------------------------
 
-With 5 years of experience in the field, I have honed my skills to build beautiful websites that are user-friendly and search-engine-friendly.
+Build user-friendly & search-engine-friendly websites.
 
 * 🌍  I'm based in San Jose, CA
 * ✉️  You can contact me at [me@michael-nguyen.dev](mailto:me@michael-nguyen.dev)
