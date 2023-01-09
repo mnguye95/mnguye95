@@ -8,7 +8,7 @@ Build user-friendly & search-engine-friendly websites.
 
 * 🌍  I'm based in San Jose, CA
 * ✉️  You can contact me at [me@michael-nguyen.dev](mailto:me@michael-nguyen.dev)
-* 🧠  I'm learning how to make better websites.
+* 🧠  I'm learning TypeScript and Sass.
 
 ### Skills
 
