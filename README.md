@@ -1,10 +1,8 @@
 Welcome to My Github 👋
 ===============================
 
-Front-End Web Developer & SEO
+Test, Web & SEO
 -----------------------------
-
-I create user-friendly & search-engine-friendly websites.
 
 * 🌍  I'm based in San Jose, CA
 * ✉️  You can contact me at [hello@michael-nguyen.dev](mailto:hello@michael-nguyen.dev)
