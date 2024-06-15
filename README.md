@@ -1,12 +1,8 @@
 Welcome to My Github 👋
 ===============================
 
-Test, Web & SEO
------------------------------
-
-* 🌍  I'm based in San Jose, CA
-* ✉️  You can contact me at [hello@michael-nguyen.dev](mailto:hello@michael-nguyen.dev)
-* 🧠  I'm learning TypeScript and Sass.
+* 🌍 San Jose, CA
+* ✉️  [hello@michael-nguyen.dev](mailto:hello@michael-nguyen.dev)
 
 ### Skills
 
